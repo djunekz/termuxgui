@@ -15,20 +15,20 @@ Author by Djunekz, jika ingin recode script ini usahakan cantumkan nama author d
 
 # First Instalation
 
-> [!Required apps]
+### **Required Apps**
 > **Termux-X11**
 >
-> You need to download termux-x11 from the following link
+> *You need to download termux-x11 from the following link*
 > **<a href="https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk">DOWNLOAD</a>**
 >
-> Install app termux-x11 from your android
+> *Install app termux-x11 from your android*
 
-> [!Minimum requirements for android device]
-> - Android 7.x+
+### **Minimum requirements for android device**
+> - *Android 7.x+*
 >
-> - 4Gb of ram (4+gb recommended)
+> - *4Gb of ram (4+gb recommended)*
 >
-> - 2Gb of free storage space (2+gb recommended)
+> - *2Gb of free storage space (2+gb recommended)*
 
 ### **Instalation Process** 
 One Command for install,
